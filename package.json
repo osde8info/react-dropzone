@@ -157,7 +157,7 @@
     "style-loader": "^1.0.0",
     "tslint": "^5.20.0",
     "typescript": "^3.2.4",
-    "webpack": "^4.41.1"
+    "webpack": "^5.94.0"
   },
   "typings": "typings/react-dropzone.d.ts",
   "config": {
